@@ -1,9 +1,9 @@
 import axios from 'axios';
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Icard } from './types/sharedInterface';
 import { Card } from './components/card';
-import { ReactComponent as Arrow } from './media/arrow.svg'
-import * as Main from './styles/mainStyle'
+import { ReactComponent as Arrow } from './media/arrow.svg';
+import * as Main from './styles/mainStyle';
 
 function App() {
 

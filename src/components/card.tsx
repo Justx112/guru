@@ -1,4 +1,4 @@
-import { Icard, IcardElement } from "../types/sharedInterface"
+import { Icard } from "../types/sharedInterface"
 import { ReactComponent as CarSVG } from "../media/car.svg"
 import { ReactComponent as Shield } from "../media/shield.svg"
 import { ReactComponent as LikeSVG } from '../media/like.svg'
